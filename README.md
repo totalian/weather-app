@@ -1,1 +1,1 @@
-# weather-app
+Simple html, css and javascript site to test open weather API

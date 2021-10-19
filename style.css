@@ -1,0 +1,37 @@
+.city-select {
+    width: 336px;
+    height: 60px;
+    margin: 100px auto 0 auto;
+    display: block;
+    padding-left: 49px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 90px;
+}
+
+h1 {
+    margin: 41px auto;
+    font-size: 48px;
+    text-align: center;
+    padding: 0px;
+}
+
+.weather-icon {
+    height: 100px;
+    width: 100px;
+    margin: 9px auto 0 auto;
+    display: block;
+}
+
+.description {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 48px;
+}
+
+.giphy {
+    display: block;
+    margin: 0 auto;
+}
